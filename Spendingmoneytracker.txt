@@ -1,0 +1,15 @@
+
+[REQUIRED] Name: OMAR MANI
+[REQUIRED] Project Title: spending money tracker
+[REQUIRED] Project Stack: MERN
+[REQUIRED] GitHub Repo Link: githublink:https://github.com/MANIOMARDEV/Soloproject
+
+
+[REQUIRED] Project Description: 
+My project designed for tracking expenses. It enables users to monitor their spending by entering details such as the item purchased, date of purchase, and price. The website provides dynamic updates, instantly reflecting any additions or deletions to the expenses list. Users can categorize their expenses, ensuring better organization. With user authentication in place, each user has a personalized experience, accessing their own expense list securely. The interface is interactive, featuring buttons for adding, editing, and deleting expenses for a smooth user experience. Total spending is calculated automatically, giving users a clear view of their overall expenditure. Data persistence ensures that entered information
+MVP:
+Project is on GitHub	
+gitignore file in root folder 
+All of CRUD* on a non-User table
+CSS implemented, and possibly other static content
+Data is validated upon create and edit, errors show
